@@ -1,7 +1,7 @@
 const express = require("express");
 const { parse } = require("path");
 const app = express();
-const PORT = 3000;
+const PORT = 3005;
 
 app.use(express.json());
 
